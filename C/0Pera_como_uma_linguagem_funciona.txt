@@ -1,0 +1,14 @@
+
+Antes de começarmos a experiência pelo mundo da programação temos que saber um pouco sobre como um computador funciona.
+
+O computador tem muitas áreas com funcionalidades diferentes, nesse começo vamos dar uma olhada no processador e em números binários.
+
+Por enquanto, o que vc precisa saber sobre números binários é que 1 indica que há eletricidade passando e 0 não, o fato de usarmos o sistema binário ao invés do decimal em computação é que ele é extremamente mais rápido na hora de executar e de codificar, se fosse de 1-9 precisariamos de sequências mais complexas do que "tem energia" e "não tem" pra saber qual é o número em questão e isso tomaria nosso precioso tempo.
+
+O processador é um componente que dita para o computador que comandos ele vai executar, sejam eles somar números, subtrair, dividir,acessar a memória, etc. Essas informação são passadas para o processador como uma sequência de números binários (11010100101010 - exemplo ilustrativo) e ai que começa nossa encruzilhada. Existe no ser humano, especialmente no cientista da computação, um fator de extrema importância para a evolução desse lindo campo de pesquisa, a preguiça. Cansados de ter que lembrar todas as sequências de binários para executar funções e de ficar olhando para aquela porrada de número que a primeira mão é quase ilegível foi se criado o ASSEMBLY, uma linguagem de programação escrita em inglês que tinha comandos que depois de executados eram traduzidos para o código binário para o processador entender. 
+
+Exemplo:
+
+add $s2,$s1,$s0 # soma o valor dos registradores $s0 e $s1 e insere no registrador $s2 (por enquanto, o registrador é um meio de guardar variáveis em um programa vcs vão ver mais sobre eles no segundo semestre)
+
+O problema do ASSEMBLY é que ele tinha poucos comandos ainda, fazer coisas mais complicadas requeriam muiitas linhas de código e bom... o ser humano tem algo mágico chamada preguiça... então criaram a linguagens 

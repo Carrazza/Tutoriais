@@ -1,0 +1,18 @@
+
+Qual a diferença de código do struct para o de uma classe? por exemplo, se eu tiver uma 
+
+classe {
+    int a
+    int b
+    int c
+}
+
+e uma 
+struct
+
+{
+    int a 
+    int b
+    int c
+} 
+

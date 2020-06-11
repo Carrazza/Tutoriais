@@ -1,0 +1,11 @@
+C:\Users\bruno\OneDrive\Área de Trabalho\Faculstuff\Learning_programming\C#\tryn\metryin\bin\Debug\netcoreapp3.1\metryin.exe
+C:\Users\bruno\OneDrive\Área de Trabalho\Faculstuff\Learning_programming\C#\tryn\metryin\bin\Debug\netcoreapp3.1\metryin.deps.json
+C:\Users\bruno\OneDrive\Área de Trabalho\Faculstuff\Learning_programming\C#\tryn\metryin\bin\Debug\netcoreapp3.1\metryin.runtimeconfig.json
+C:\Users\bruno\OneDrive\Área de Trabalho\Faculstuff\Learning_programming\C#\tryn\metryin\bin\Debug\netcoreapp3.1\metryin.runtimeconfig.dev.json
+C:\Users\bruno\OneDrive\Área de Trabalho\Faculstuff\Learning_programming\C#\tryn\metryin\bin\Debug\netcoreapp3.1\metryin.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\Faculstuff\Learning_programming\C#\tryn\metryin\bin\Debug\netcoreapp3.1\metryin.pdb
+C:\Users\bruno\OneDrive\Área de Trabalho\Faculstuff\Learning_programming\C#\tryn\metryin\obj\Debug\netcoreapp3.1\metryin.csprojAssemblyReference.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\Faculstuff\Learning_programming\C#\tryn\metryin\obj\Debug\netcoreapp3.1\metryin.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\Faculstuff\Learning_programming\C#\tryn\metryin\obj\Debug\netcoreapp3.1\metryin.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Área de Trabalho\Faculstuff\Learning_programming\C#\tryn\metryin\obj\Debug\netcoreapp3.1\metryin.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\Faculstuff\Learning_programming\C#\tryn\metryin\obj\Debug\netcoreapp3.1\metryin.pdb
